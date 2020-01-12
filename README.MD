@@ -5,3 +5,5 @@
 Склонения слов по правилам казахского языка
 
 https://yznaika.com/hints/110-jalgaular
+
+https://github.com/atteo/evo-inflector

@@ -36,7 +36,7 @@ public class KazakhEndingBuilder {
         return this;
     }
 
-    public KazakhEndingBuilder possessive(Form possessive) {
+    public KazakhEndingBuilder possessive(Form possessive, Quantity quantitative) {
         this.possessive = possessive;
         return this;
     }
